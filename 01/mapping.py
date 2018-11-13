@@ -4,7 +4,7 @@ Created on Mon Nov 12 22:33:31 2018
 
 @author: bpou
 """
-from matplotlib.pyplot import show
+#from matplotlib.pyplot import show
 import networkx
 BJ = 'Beijing'
 SZ = 'Shenzhen'
